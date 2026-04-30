@@ -38,6 +38,3 @@ yarn-error.log*
 # local
 mocked-db.json
 
-/.next
-/.vite
-tsconfig.tsbuildinfo
